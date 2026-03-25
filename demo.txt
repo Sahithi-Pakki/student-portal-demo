@@ -1,0 +1,27 @@
+Student Portal Demo
+
+Overview
+This is a basic Student Portal application idea designed to manage student-related activities in an organized way.
+
+Features
+- Student registration and login
+- View student profile
+- Course 
+- Marks display
+- Attendance tracking
+
+Technologies (Planned)
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python 
+- Database: MySQL 
+
+Purpose
+This project is created as a beginner-friendly demo to understand how a real-world student management system works.
+
+Future Improvements
+- Admin dashboard
+- Teacher login
+- Assignment submission
+
+by
+Sahithi Pakki
