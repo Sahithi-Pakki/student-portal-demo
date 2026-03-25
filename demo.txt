@@ -23,5 +23,5 @@ Future Improvements
 - Teacher login
 - Assignment submission
 
-by
+by author
 Sahithi Pakki
